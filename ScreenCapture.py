@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-"""ScreenCapture."""
+"""ScreenCapture. by aDu"""
 
 
 import win32gui
