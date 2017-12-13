@@ -12,7 +12,7 @@ import cv2
 
 
 def allScreenCapture():
-    # 截屏并持续缩放显示。有点慢，估计不做缩放，会快上一点点。。
+    # 截屏并持续缩放显示。有点慢，估计不做缩放，会快上一点点。。。
     wDC = win32gui.GetWindowDC(0)
     scrDC = win32ui.CreateDCFromHandle(wDC)
     scrList = []
